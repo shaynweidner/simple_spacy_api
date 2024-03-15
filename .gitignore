@@ -1,0 +1,5 @@
+dist
+build
+s2v_reddit_2019_lg
+venv
+*.spec
